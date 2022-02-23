@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good news from Ireland being a true and faithful account of a late signal victory gain'd by our English forces near Dublin : together with a report of the taking of that strong city Drogheda, and the speedy advancing of our army from thence towards Dublin : as also an account of the taking of several vessels, and abundance of horses from the enemy, of which the very horse King James rid on in the fight was one, which is now brought to High-lake, with several other things of great moment : in a letter directed from an officer in the fight, to Mr. John Cook at the sheers in Little Lumbard street, where the true copy is to be seen.</title>
+            <author>Crysly, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35332</idno>
+            <idno type="STC">Wing C7453</idno>
+            <idno type="STC">ESTC R21200</idno>
+            <idno type="EEBO-CITATION">12259752</idno>
+            <idno type="OCLC">ocm 12259752</idno>
+            <idno type="VID">57823</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35332)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57823)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 178:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good news from Ireland being a true and faithful account of a late signal victory gain'd by our English forces near Dublin : together with a report of the taking of that strong city Drogheda, and the speedy advancing of our army from thence towards Dublin : as also an account of the taking of several vessels, and abundance of horses from the enemy, of which the very horse King James rid on in the fight was one, which is now brought to High-lake, with several other things of great moment : in a letter directed from an officer in the fight, to Mr. John Cook at the sheers in Little Lumbard street, where the true copy is to be seen.</title>
+                  <author>Crysly, James.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: James Crysly.</note>
+                  <note>"Printed according to order"</note>
+                  <note>Advertisements: p. [2].</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb facs="tcp:57823:1" rendition="simple:additions"/>
+            <p>Good News from IRELAND, Being a True and Faithful Account of a <hi>Late Signal Victory</hi> Gain'd by our <hi>Engliſh</hi> Forces near <hi>DUBLIN.</hi>
+            </p>
+            <p>Together with a Report of the taking of that ſtrong City <hi>Drogheda,</hi> and the ſpeedy Advancing of our Army from thence towards <hi>Dublin.</hi>
+            </p>
+            <p>As alſo an Account of the taking of ſeveral Veſſels, and abundance of Horſes from the Enemy, of which the very Horſe King <hi>James</hi> Rid on in the Fight was one, which is now brought to <hi>High-lake;</hi> with ſeveral other things of great moment.</p>
+            <p>
+               <hi>In a Letter directed from an Officer in the Fight, to Mr.</hi> John Cook <hi>at the</hi> Sheers <hi>in</hi> Little Lumbard ſtreet, <hi>where the true Copy is to be ſeen.</hi>
+            </p>
+            <p>Printed according to Order.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THough occaſion has not hitherto per<g ref="char:EOLhyphen"/>mitted me to write to you all this time, yet I hope this will not be unwelcome to ſuch a well-wiſher of their Majeſties and Countreys Intereſt as your ſelf. We juſt now Arrived here ſafe from <hi>Dublin</hi> Bay, whither our Comman<g ref="char:EOLhyphen"/>der Captain <hi>John Jennings</hi> was ordered out laſt Week, taking Their Majeſties Ship the <hi>Dover,</hi> Captain <hi>Whitaker</hi> Commander a<g ref="char:EOLhyphen"/>long for our Aſſiſtance: we Arrived at <hi>Dub<g ref="char:EOLhyphen"/>lin</hi> Bay about 11 at Night on <hi>Friday</hi> laſt, and came to an Anchor, ſent our Boats to and a<g ref="char:EOLhyphen"/>gain over the Bay all that Night and to Mor<g ref="char:EOLhyphen"/>row after, and did take ſeveral little Veſſels with Priſoners, and Proteſtants, by whom we were too late informed that four Veſſels went richly loaded for <hi>France</hi> ſome five or ſix hours before we Arrived; but our com<g ref="char:EOLhyphen"/>fort is that the <hi>Ruby</hi> and <hi>James</hi> Galley being ſent before us to Cruiſe over againſt <hi>Water<g ref="char:EOLhyphen"/>ford</hi> and <hi>Salteſs,</hi> can hardly be ſuppoſed to miſs of them. Our taking of ſo many of their Barks and Veſſels did ſo vex the <hi>Iriſh</hi> that they planted abundance of Great Guns upon one ſide of the Bay, and play'd very ſmartly upon us all <hi>Saturday</hi> Morning, which our Men were ſo unconcerned at, that while their Great Shot came very thick about us on all ſides, yet all we returned them for ſome time were ſome few Hollows of deri<g ref="char:EOLhyphen"/>ſion after every Volley of the <hi>Iriſh</hi> Guns. But at length our Commander orders to weigh Anchor, and coming ſome nearer to them, returned them ſo hot Broad-ſides that though all the place was full of Men, and convenience to keep our Shot from doing them much hurt, yet of a truth it was plea<g ref="char:EOLhyphen"/>ſant to ſee with what pannick fear and con<g ref="char:EOLhyphen"/>fuſion they run every one almoſt a different way, in all the World like a company of Mice purſued by Rats, induſtriouſly making tryal of every appearance of a hiding place. The Horſes run as confuſedly and diſorderly as the Men, and being madded with noiſe and diſorder, trod down numbers of them, for though there were a great number of Horſe<g ref="char:EOLhyphen"/>men (for they feared our coming aſhore) yet in a little time not a Man was to be ſeen on Horſeback ſave the late King <hi>James</hi> en<g ref="char:EOLhyphen"/>deavouring to put courage in that Spiritleſs Crew; but all he could do was with great difficulty to get their Guns carried off, and was forced to quit his Horſe; upon which our Commander ordered the Boats aſhore, and going himſelf in Perſon, took a little Veſſel in the eye of ſeveral Troops of <hi>Dra<g ref="char:EOLhyphen"/>goons</hi> that had come freſh from <hi>Dublin,</hi> with whom, as we underſtood after, the late King <hi>James</hi> returned; but ſo ſoon as our Commander ordered the two Boats
+<pb facs="tcp:57823:2"/>Crews aſhore, it was pleaſant to ſee how ſuch as were on Horſeback did Scamper, and ſuch as were on Foot did climb upon the Rocks like ſo many Goats. In fine, it not being ſafe for ſo ſmall a Number as our Boats Crews to advance far, our Comman<g ref="char:EOLhyphen"/>der was contented to bring ſome of their Horſes on Board of our Ship by the little Veſſel he had taken in their eye, for a token of their Cowardize, and the Engliſh Cou<g ref="char:EOLhyphen"/>rage, amongſt which was the late King <hi>James</hi>'s own Horſe, which he had quit, it ſeems, to order and encourage the Dragoons that were on foot. We brought four of the Horſes, and ſpecially that which was the late King <hi>James</hi>'s to <hi>High-lake,</hi> and ſet them on Shore. In all the Action, though they loſt ſeveral, as we could viſibly ſee, and Priſoners after taken confirmed, yet we loſt not one Man, though yet there wanted not work for your <hi>Inſtruments,</hi> which anſwered my expectation pretty well. There lay a Pri<g ref="char:EOLhyphen"/>vateer within the Bar, which we are infor<g ref="char:EOLhyphen"/>med does carry Weekly Pacquets to and from ſome place of <hi>England,</hi> which we could not come at, our Boats being of too ſmall Force to attack him, and our Ships of too great Burthen to go over the Bar; beſide, that we was not allowed ſo much time by our Orders as to Man and Fit one or two of the Barks we took to attack him, elſe our Commander had certainly brought him a<g ref="char:EOLhyphen"/>long. The Proteſtants and Priſoners tell us, That all things are ſo ſcarce at <hi>Dublin,</hi> that the <hi>French</hi> are like to eat up the <hi>Iriſh,</hi> and they irritated to ſee the <hi>French</hi> pre<g ref="char:EOLhyphen"/>ferred and countenanced, ſeverals ſpecially of the <hi>Iriſh</hi> are daily killed upon the Score. They expected we were to lye in the Bay to hinder them from any commerce by Sea with <hi>France</hi> or other parts of <hi>Ireland,</hi> which terrified, and as the Proteſtants aſſure us, would weaken them exceedingly, and make them quit <hi>Dublin.</hi> 'Tis commonly judged by Papiſts as well as Proteſtants at <hi>Dublin,</hi> that King <hi>James</hi> has a mind to ſub<g ref="char:EOLhyphen"/>mit to our King; Firſt, Becauſe he is no<g ref="char:EOLhyphen"/>thing ſo much caſt down, ſometime ſince he heard of King <hi>William</hi>'s Deſign of com<g ref="char:EOLhyphen"/>ing to <hi>Ireland;</hi> and of his little concern how things go with his Army. Others judge that he makes his account to quit <hi>Ireland</hi> at laſt, becauſe he is ſo earneſt in ſending off for <hi>France</hi> all the Beſt things he can, and thoſe alſo that are near<g ref="char:EOLhyphen"/>eſt to him, in theſe four Ships I ſpoke of; they tell us of a vaſt deal of Plate, Gold, and Silver Money, beſide other fine Things; ſo that hardly any Money but their new Coin is to be ſeen among them. We brought off a great deal of their Coin at this and other Occaſions, whereof I would have ſent you a Token, if wo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h the pains. Our Army, as the Priſoners tell us, have taken <hi>Droghedah,</hi> and make haſte towards <hi>Dublin.</hi> All the Priſoners profeſs themſelves willing and glad to be Taken from the Miſery that they feared to come upon them. By which you may judge what may be expected if our King were once over. So ſoon as he goes o<g ref="char:EOLhyphen"/>ver, our Ship, with the <hi>Monk</hi> and St. <hi>Al<g ref="char:EOLhyphen"/>bans</hi> are order'd to attend the great Fleet, whence I may have Occaſion to ſend to you for ſome <hi>Inſtruments,</hi> and my Friends Mr. <hi>Hulſe</hi> and Mr. <hi>Thowlt,</hi> for ſome <hi>Me<g ref="char:EOLhyphen"/>dicines;</hi> for our Captain has ſpoken to me to provide for a bigger Ship. I ſhall only deſire you to Preſent my moſt hearty Reſpects to my very good Friends Mr. <hi>Hargrave,</hi> and Mr. <hi>Couley,</hi> Mr. <hi>Hulſe,</hi> and Mr. <hi>Thowlt;</hi> and to pleaſe, if you can hear of us, to write me how they be, and your ſelf; as alſo how things Rule, eſpecially in <hi>Scotland.</hi> Our Crui<g ref="char:EOLhyphen"/>ſers have been ſo vigilant, that it is great News to hear of a <hi>French</hi> Ship a<g ref="char:EOLhyphen"/>ny where in this Channel. I could write you many more conſiderable things, but that I forbear to trouble you too much at one time, being,</p>
+                  <closer>
+                     <salute>SIR,</salute>
+                     <signed>Your Affectionate Friend and humble Servant, James Cryſly.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books Newly Publiſht.</head>
+            <p>☞ <hi>The Bloody Duke;</hi> or the Adventures for a Crown: <hi>A Tragi-Comedy</hi> as it was Acted at the Court at <hi>Alba Regalis</hi> by ſe<g ref="char:EOLhyphen"/>veral Perſons of <hi>Great Quality.</hi>
+            </p>
+            <p>☞ <hi>The Abdicated Prince;</hi> or the Adventures of Four years: <hi>A Tragi-Comedy.</hi> The Second Edition.</p>
+            <p>☞ <hi>The Late Revolution;</hi> or the Happy Change: <hi>A Tragi-Comedy,</hi> as it was Acted throughou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Engliſh Dominions</hi> in the year 1688. Written by a <hi>Perſon of Quality.</hi>
+            </p>
+            <p>☞ Theſe three <hi>new Plays</hi> contain a full Account of the private Intrigues of the <hi>Two laſt Reigns,</hi> and of all the moſt Re<g ref="char:EOLhyphen"/>markable <hi>Tranſactions</hi> that have happened ſince.</p>
+            <p>☞ <hi>A Narrative of the Diſſenters New Plot,</hi> that has made ſuch a great noiſe in the World by being miſunderſtood; with the Chief <hi>Conſpirators</hi> Names, and Principal <hi>Conſults:</hi> Written by one who was <hi>deeply</hi> concern'd therein. To which is added, an Account of the deſign of it by the <hi>ſame Author.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>John Dunton</hi> at the <hi>Raven</hi> in the <hi>Poultrey.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
